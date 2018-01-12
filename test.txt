@@ -2,3 +2,4 @@ Created in sample git repo
 
 this is line 1
 this is line 2
+
