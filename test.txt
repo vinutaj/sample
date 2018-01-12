@@ -1,5 +1,5 @@
 Created in sample git repo
 
-this is line 1
+this is line 101010101010101010101
 this is line 2
 
